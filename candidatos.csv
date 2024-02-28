@@ -1,0 +1,57 @@
+Nombre;Apellido;Tech Skills;Soft Skills;Idioma;Disponibilidad Horaria;Perfil Psicológico
+Juan;Pérez;['Python', 'Pandas', 'NumPy'];['Trabajo en equipo', 'Liderazgo'];B2;Full Time;Extrovertido
+María;Gómez;['Java'];['Comunicación', 'Pensamiento creativo'];C1;Part Time;Introvertido  
+Pedro;López;['JavaScript', 'React'];['Liderazgo', 'Colaboración'];A2;Horario de mañana;Analítico
+Luisa;Rodríguez;['PHP', 'Laravel'];['Organización', 'Iniciativa'];B1;Horario vespertino;Creativo
+Carlos;Martínez;['C++', 'C'];['Proactividad', 'Trabajo bajo presión'];A1;Flexibilidad Horaria;Racional
+Daniela;Sánchez;['Ruby', 'Rails'];['Adaptación al cambio', 'Negociación'];C2;Full Time;Idealista
+Jorge;Ruiz;['iOS', 'Swift'];['Orientación a resultados', 'Gestión del tiempo'];B2;Part Time;Realista
+Lucía;Díaz;['Android'];['Iniciativa', 'Colaboración'];C1;Horario de mañana;Soñador 
+Pablo;Muñoz;['Node.js', 'Express'];['Negociación', 'Trabajo en equipo'];A1;Horario vespertino;Altruista
+Laura;Jiménez;['DevOps', 'Docker', 'Kubernetes'];['Gestión del tiempo', 'Comunicación'];C2;Flexibilidad Horaria;Servicial
+Micaela;Lorenzo;['C#', '.NET'];['Resolución de problemas', 'Creatividad'];B1;Full Time;Idealista
+Matías;Álvarez;['Data Science', 'Machine Learning'];['Colaboración', 'Proactividad'];C2;Part Time;Analítico
+Luciana;Torres;['Testing', 'JMeter'];['Comunicación', 'Trabajo en equipo'];A2;Horario vespertino;Realista
+Tomás;Pérez;['Blockchain', 'Solidity'];['Pensamiento crítico', 'Liderazgo'];B2;Horario de mañana;Creativo 
+Sofía;Giménez;['Product Management'];['Organización', 'Orientación a resultados'];C1;Flexibilidad Horaria;Práctico  
+Julián;Martínez;['UX/UI Design'];['Curiosidad', 'Adaptación al cambio'];A1;Full Time;Soñador  
+Florencia;Suárez;['Data Engineering'];['Trabajo bajo presión', 'Iniciativa'];B1;Part Time;Observador
+Mateo;Rodríguez;['DevSecOps'];['Resolución de problemas', 'Colaboración'];C2;Horario vespertino;Idealista
+Jazmín;López;['Mobile Development'];['Creatividad', 'Comunicación'];A2;Horario de mañana;Racional  
+Thiago;Pérez;['.NET Core'];['Proactividad', 'Pensamiento crítico'];B2;Flexibilidad Horaria;Analítico
+Milagros;García;['Testing', 'Selenium'];['Gestión del tiempo', 'Liderazgo'];C1;Full Time;Realista
+Benjamín;Fernández;['Product Management', 'Scrum'];['Negociación', 'Trabajo en equipo'];A1;Part Time;Práctico
+Agustina;Gómez;['Python', 'Django'];['Creatividad', 'Colaboración'];B2;Horario vespertino;Idealista
+Francisco;López;['Data Science', 'TensorFlow'];['Proactividad', 'Comunicación'];C1;Horario de mañana;Analítico  
+Valentina;Pérez;['Frontend', 'React'];['Resolución de problemas', 'Liderazgo'];A2;Full Time;Realista
+Santiago;García;['Backend', 'Node.js'];['Pensamiento crítico', 'Organización'];B1;Part Time;Creativo
+Victoria;Rodríguez;['Mobile', 'React Native'];['Adaptación al cambio', 'Iniciativa'];C2;Flexibilidad Horaria;Práctico
+Tadeo;Martínez;['Blockchain', 'Ethereum'];['Curiosidad', 'Orientación a resultados'];A1;Horario vespertino;Soñador
+Emilia;Fernández;['Testing', 'Cypress'];['Trabajo bajo presión', 'Negociación'];B1;Horario de mañana;Observador  
+Benicio;Suárez;['DevOps', 'Ansible'];['Resolución de problemas', 'Gestión del tiempo'];C2;Full Time;Idealista
+Candela;Álvarez;['Product Management'];['Colaboración', 'Trabajo en equipo'];A2;Part Time;Racional
+Dante;Torres;['UX/UI'];['Comunicación', 'Creatividad'];B2;Horario vespertino;Analítico
+Bruno;Lorenzo;['Backend', 'Go'];['Liderazgo', 'Proactividad'];C1;Horario de mañana;Realista  
+Ariadna;Pérez;['Frontend', 'Vue.js'];['Organización', 'Pensamiento crítico'];A1;Full Time;Práctico
+Máximo;González;['Java'];['Trabajo en equipo', 'Colaboración'];B2;Part Time;Extrovertido
+Juana;Díaz;['.NET'];['Comunicación', 'Creatividad'];C1;Full Time;Introvertido 
+Alan;Sánchez;['Python'];['Liderazgo', 'Proactividad'];A2;Horario vespertino;Analítico
+Daniel;Pérez;['JavaScript'];['Pensamiento crítico', 'Resolución de problemas'];B1;Horario de mañana;Creativo
+Paula;López;['Ruby on Rails'];['Adaptación al cambio', 'Iniciativa'];C2;Flexibilidad Horaria;Idealista
+Pedro;Gómez;['iOS'];['Orientación a resultados', 'Organización'];B2;Part Time;Realista
+Lucas;Martínez;['Android'];['Trabajo bajo presión', 'Gestión del tiempo'];A1;Full Time;Soñador
+Valentina;Rodríguez;['React'];['Colaboración', 'Negociación'];B1;Horario vespertino;Racional
+Maia;García;['Angular'];['Comunicación', 'Curiosidad '];C2;Horario de mañana;Ético  
+Thiago;Fernández;['Vue.js'];['Liderazgo', 'Pensamiento crítico'];A2;Flexibilidad Horaria;Altruista
+Emilia;Suárez;['Node.js'];['Proactividad', 'Trabajo en equipo'];C1;Part Time;Idealista
+Tomás;Lorenzo;['Go'];['Organización', 'Creatividad'];B2;Full Time;Analítico
+Juan;Pérez;['Python', 'SQL', 'Excel'];['Trabajo en equipo', 'Proactividad'];B2;Full Time;Analítico
+María;García;['Java', 'JavaScript'];['Comunicación', 'Resolución de problemas'];C1;Part Time;Creativo
+Carlos;López;['C++', 'Python'];['Liderazgo', 'Pensamiento crítico'];B1;Horario de mañana;Analítico
+Laura;Martínez;['HTML', 'CSS', 'JavaScript'];['Trabajo en equipo', 'Adaptabilidad'];A2;Horario vespertino;Sociable
+David;Rodríguez;['Python', 'Pandas', 'NumPy', 'Power BI'];['Liderazgo', 'Resolución de problemas'];C2;Flexibilidad Horaria;Analítico
+Ana;Fernández;['SQL', 'Excel', 'Tableau'];['Proactividad', 'Organización'];B2;Full Time;Metódico
+José;Sánchez;['Java', 'Python', 'SQL'];['Trabajo en equipo', 'Comunicación'];B2;Part Time;Creativo
+Sofia;Díaz;['Python', 'R', 'Machine Learning'];['Liderazgo', 'Pensamiento crítico'];C1;Horario de mañana;Analítico
+Daniel;Torres;['HTML', 'CSS', 'JavaScript'];['Adaptabilidad', 'Resolución de problemas'];A2;Horario vespertino;Sociable
+Andrea;Ruiz;['C++', 'Java'];['Proactividad', 'Comunicación'];B1;Flexibilidad Horaria;Creativo
